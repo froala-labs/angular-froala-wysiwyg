@@ -99,7 +99,6 @@ import { FroalaEditorModule, FroalaViewModule } from 'angular-froala-wysiwyg';
 
 ```json
 "styles": [
-  "styles.css",
   "./node_modules/froala-editor/css/froala_editor.pkgd.min.css",
   "./node_modules/froala-editor/css/froala_style.min.css",
 ]
